@@ -3,8 +3,9 @@
 ## Lista de Funcionalidade
 
 ## Básico
-- [ ] Ter uma lista de Produtos  com um Identificador para Cada Item
+- [X] **Ter uma lista de Produtos  com um Identificador para Cada Item**
 - [ ] Criar Interfacepara Remover um item na Lista de Produto
+- [ ] Conectar Lista de Produtos com um Banco de Dados
 - [ ] Poder adcionar um item na lista de Produtos
 - [ ] Criar Interfacepara Para Poder Adcionar um item na lista de Produtos
 - [ ] Poder Remover um Item da Lista de Produtos

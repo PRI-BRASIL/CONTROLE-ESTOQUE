@@ -1,0 +1,47 @@
+[
+     {
+            "id":    "0001",
+            "nome":  "Teclado Game",
+            "marca": "Generico" 
+     },
+     {
+            "id":    "0002",
+            "nome":  "Mouse Game",
+            "marca": "Generico" 
+      },
+      {
+            "id":    "0003",
+            "nome":  "Monitor 4k",
+            "marca": "LG" 
+      },
+      {
+            "id":    "0004",
+            "nome":  "Tablet ",
+            "marca":  "Samsung" 
+      },
+      {
+            "id":    "0005",
+            "nome":  "Notebook",
+            "marca": "DELL" 
+     },
+     {
+            "id":    "0006",
+            "nome":  "Impressora ",
+            "marca": "Epson" 
+     },
+     {
+            "id":    "0007",
+            "nome":  "Pen Drive",
+            "marca": "San Disk" 
+     },
+     {
+            "id":    "0008",
+            "nome":  "Caixa de Som",
+            "marca":  "AOC" 
+     },
+     {
+            "id":    "0009",
+            "nome":  "Roteador",
+            "marca":  "TP LINK" 
+     }
+]
